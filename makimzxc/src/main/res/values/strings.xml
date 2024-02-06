@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">makimzxc</string>
+    <string name="menu_home">Смартфоны</string>
+    <string name="menu_gallery">Планшеты</string>
+    <string name="menu_slideshow">Smart часы</string>
+    <string name="nav_header_title">Android</string>
+    <string name="nav_header_subtitle">Разработка мобильных приложений</string>
+</resources>
